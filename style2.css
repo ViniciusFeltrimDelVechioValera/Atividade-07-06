@@ -1,0 +1,11 @@
+.img {
+    width: 40%;
+    border-radius: 100%;
+    float: right;
+}
+
+p {
+    text-align: justify;
+    float: left;
+    font-size: 30px;
+}
