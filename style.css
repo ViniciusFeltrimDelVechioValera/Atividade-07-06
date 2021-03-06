@@ -75,9 +75,9 @@ body {
 }
 
 .img2 {
-    width: 35%;
+    width: 40%;
     border-radius: 100%;
-    margin-top: 8%;
+    margin-top: 6%;
 }
 
 .proxima {
@@ -114,7 +114,8 @@ video {
 }
 
 .descricao {
-    margin-top: 15px;
+    margin-top: 10px;
+    margin-bottom: 5px;;
     font-family: 'Times New Roman', Times, serif;
     color: aliceblue;
 }
