@@ -1,6 +1,7 @@
 body {
     margin: 0%;
     height: 100%;
+    min-width: 456px;
 }
 
 .corpo {
@@ -42,7 +43,7 @@ body {
 #conteudo3 {
     position:relative;
     width: 50%;
-    height: 230%;
+    height: 200%;
     background-color:coral;
     float: left;
     padding: auto;
@@ -52,7 +53,7 @@ body {
     text-align: center;
     position: relative;
     width: 50%;
-    height: 230%;
+    height: 200%;
     background-color:darkcyan;
     float: right;
 }
@@ -86,9 +87,8 @@ body {
 }
 
 .img2 {
-    width: 40%;
+    width: 45%;
     border-radius: 100%;
-    margin-top: 10%;
     margin-top: 8%;
 
 }
