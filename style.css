@@ -42,7 +42,7 @@ body {
 #conteudo3 {
     position:relative;
     width: 50%;
-    height: 200%;
+    height: 210%;
     background-color:coral;
     float: left;
     padding: auto;
@@ -52,14 +52,14 @@ body {
     text-align: center;
     position: relative;
     width: 50%;
-    height: 200%;
+    height: 210%;
     background-color:darkcyan;
     float: right;
 }
 
 .escrita {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 100%;
+    font-size: 115%;
     margin-left: 5%;
     margin-right: 5%;
     margin-top: 2%;
