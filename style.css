@@ -24,7 +24,7 @@ body {
 #conteudo1 {
     position:relative;
     width: 50%;
-    height: 130%;
+    height: 110%;
     background-color:coral;
     float: left;
     padding: auto;
@@ -34,7 +34,7 @@ body {
     text-align: center;
     position: relative;
     width: 50%;
-    height: 130%;
+    height: 110%;
     background-color:darkcyan;
     float: right;
 }
