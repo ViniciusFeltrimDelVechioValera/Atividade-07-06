@@ -69,14 +69,11 @@ body {
 
 .escrita2 {
     font-family: 'Times New Roman', Times, serif;
-<<<<<<< HEAD
     font-size: 110%;
     margin: 13% 5% 5% 5%;
-=======
     font-size: 120%;
     margin: 17% 5% 5% 5%;
     text-align:justify;
->>>>>>> e089fcbc15647da0efa7747742f82c24dcb62aea
     color:honeydew;
     padding: auto;
 }
@@ -91,11 +88,9 @@ body {
 .img2 {
     width: 40%;
     border-radius: 100%;
-<<<<<<< HEAD
     margin-top: 10%;
-=======
     margin-top: 8%;
->>>>>>> e089fcbc15647da0efa7747742f82c24dcb62aea
+
 }
 
 .proxima {
@@ -138,7 +133,6 @@ video {
     font-family: 'Times New Roman', Times, serif;
     color: aliceblue;
 }
-<<<<<<< HEAD
 
 .lista {
     margin-left: 1%;
@@ -151,5 +145,4 @@ video {
     font-family: 'Times New Roman', Times, serif;
     color: aliceblue;
 }
-=======
->>>>>>> e089fcbc15647da0efa7747742f82c24dcb62aea
+
