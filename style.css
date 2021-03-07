@@ -24,7 +24,7 @@ body {
 #conteudo1 {
     position:relative;
     width: 50%;
-    height: 110%;
+    height: 130%;
     background-color:coral;
     float: left;
     padding: auto;
@@ -34,7 +34,7 @@ body {
     text-align: center;
     position: relative;
     width: 50%;
-    height: 110%;
+    height: 130%;
     background-color:darkcyan;
     float: right;
 }
@@ -42,7 +42,7 @@ body {
 #conteudo3 {
     position:relative;
     width: 50%;
-    height: 210%;
+    height: 230%;
     background-color:coral;
     float: left;
     padding: auto;
@@ -52,14 +52,14 @@ body {
     text-align: center;
     position: relative;
     width: 50%;
-    height: 210%;
+    height: 230%;
     background-color:darkcyan;
     float: right;
 }
 
 .escrita {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 115%;
+    font-size: 120%;
     margin-left: 5%;
     margin-right: 5%;
     margin-top: 2%;
@@ -69,7 +69,7 @@ body {
 
 .escrita2 {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 110%;
+    font-size: 115%;
     margin: 13% 5% 5% 5%;
     font-size: 120%;
     margin: 17% 5% 5% 5%;
